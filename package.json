@@ -1,10 +1,17 @@
 {
-  "name": "slippy",
+  "name": "slippy-tile-generator",
   "version": "1.0.0",
   "description": "A node.js slippy map tile generator.",
   "author": {
     "name": "Christian Cook",
     "url": "https://www.cookie.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CookieCookson/slippy-tile-generator.git"
+  },
+  "bugs": {
+      "url": "https://github.com/CookieCookson/slippy-tile-generator/issues"
   },
   "main": "dist/index.js",
   "files": [
@@ -22,7 +29,9 @@
   "keywords": [
     "slippy",
     "map",
+    "tile",
     "tiles",
+    "generator",
     "leaflet",
     "mapbox",
     "google"

@@ -1,4 +1,4 @@
-# Slippy
+# Slippy Tile Generator
 
 A node.js slippy map tile generator.
 
@@ -9,13 +9,13 @@ Slippy takes a raster source image and creates map tiles for different zoom leve
 To use `slippy` as a command anywhere in the CLI, you can install it globally:
 
 ```
-npm i -g slippy
+npm i -g slippy-tile-generator
 ```
 
 If you wish to use it in your project as a script, you can install it into your project locally:
 
 ```
-npm i slippy --save-dev
+npm i slippy-tile-generator --save-dev
 ```
 
 ## Usage
